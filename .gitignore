@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.vscode
+org_notebook
+merged_notebooks
+num_photo012
+merged_notebooks_temp
+temperature20230208.csv
+images
+
+# Virtual environments
+.venv
